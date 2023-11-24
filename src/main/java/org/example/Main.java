@@ -7,11 +7,11 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         List<String> trump = new ArrayList<>();
-        trump.add("Ace");
+        trump.add("King");
         trump.add("Ten");
         trump.add("Jack");
         trump.add("Queen");
-        trump.add("King");
+        trump.add("Ace");
 
         System.out.print(trump.size());
         System.out.print(" ");
